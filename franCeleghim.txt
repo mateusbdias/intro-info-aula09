@@ -2,10 +2,6 @@ Oi!!!! Meu nome é Fran!!!! Moro em São josé dos Pinhais!! Tenho 30 anos.
 Nasci em Santa Isabel do Ivai. Cursei Engenharia Ambiental na UEM E QUMICA também....Morei 6 anos em Maringá,
 e morei 3 anos em Umuarama....
 
-<<<<<<< HEAD
 Celeghim é um nome de que origem? (Matheus Braga)
 É de origem Italiana.....
-=======
 Você gosta de escutar música? Se sim, qual seu gênero/banda favorito(a)?
-Celeghim é um nome de que origem? (Matheus Braga)
->>>>>>> d38ca010a6f7bd1161230d6640ff07e13d6f3b99
