@@ -1,7 +1,4 @@
 Meu nome completo é Matheus Braga Dias, que abreviado fica MBD, então cuidado para não confundir com o Mateus Benites Dias, que também é MBD!
 
-<<<<<<< HEAD
 kkkkk vc nasceu em que cidade MBD?
-=======
 Onde você cursou o ensino superior?
->>>>>>> d38ca010a6f7bd1161230d6640ff07e13d6f3b99
